@@ -2,6 +2,7 @@
 
 The best of my progress and work done throughout the semester will be recorded here:
 
+<ol>
 1.Free Code Camp Projects
 2.Intro to JS
 3.Natural Simulations
@@ -12,4 +13,4 @@ The best of my progress and work done throughout the semester will be recorded h
 8.JQuery
 9.Games and visualization
 10.Algorithms
-
+</ol>
