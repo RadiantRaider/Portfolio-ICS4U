@@ -18,7 +18,7 @@ The best of my progress and work done throughout the semester will be recorded h
 5. Html & CSS
 </br>
 <br>
-6. Pyraminx
+6. Cubes
 </br>
 <br>
 7. Html JQuery
