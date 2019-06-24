@@ -21,10 +21,10 @@ The best of my progress and work done throughout the semester will be recorded h
 6. Cubes
 </br>
 <br>
-7. Html JQuery
+7. Html/JQuery
 </br>
 <br>
-8. JQuery
+8. Html/CSS
 </br>
 <br>
 9. Games and visualization
