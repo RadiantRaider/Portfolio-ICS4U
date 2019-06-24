@@ -1,4 +1,4 @@
-<h1>Portfolio</h1>
+<h1>Portfolio ~ ICS4U</h1>
 
 The best of my progress and work done throughout the semester will be recorded here:
 
