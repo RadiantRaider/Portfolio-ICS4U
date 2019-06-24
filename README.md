@@ -15,7 +15,7 @@ The best of my progress and work done throughout the semester will be recorded h
 4. MicroBit
 </br>
 <br>
-5. Html & CSS
+5. SQL
 </br>
 <br>
 6. Cubes
